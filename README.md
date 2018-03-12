@@ -1,5 +1,6 @@
-# project1-Hoyadonis-4
-4th attempt
-edit 1
+# Project 1
 
-A bit about myself
+Web Programming with Python and JavaScript
+# project1-Hoyadonis-1
+# project1-Hoyadonis-1
+# project1-Hoyadonis-1
